@@ -153,7 +153,26 @@ margin-bottom: 32px;
 .sponsor-companies img{
     filter: grayscale(100%);
 }
-
+/* feature related style  */
+#feature-section-title{
+    border-left: 5px solid #FF900E;
+    padding-left: 20px;
+}
+.feature-card .feature-title{
+    font-size: 1.25rem;
+font-weight: 600;
+margin: 0;
+}
+.feature-card{
+    padding: 30px;
+    border-radius: 8px;
+box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+background: rgba(255, 255, 255, 1);
+margin-bottom: 20px;
+}
+.features{
+ gap: 140px;
+}
 
 
 
